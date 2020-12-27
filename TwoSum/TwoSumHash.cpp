@@ -48,4 +48,6 @@ int main() {
   printVector(twoSum(nums, 9));
   cout << endl;
   cout << "Expected: " << "[0, 1]" << endl;
+
+  return 0;
 }
